@@ -2,4 +2,4 @@
 
 Tests
 - [ ] Test #1
-- [ ] Test #2
+- [X] Test #2
